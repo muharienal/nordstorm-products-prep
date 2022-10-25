@@ -5,9 +5,9 @@
 -- https://www.kaggle.com/datasets/polartech/nordstrom-dataset
 
 
--- Create and use nordstorm database
-CREATE DATABASE nordstorm;
-USE nordstorm;
+-- Create and use nordstrom database
+CREATE DATABASE nordstrom;
+USE nordstrom;
 
 
 -- Create boots table
