@@ -16,4 +16,4 @@ We specialize in web mining and web data harvesting from the world wide web (inc
 Learn more from https://www.barkingdata.com.
 
 ### Data Normalization
-![My Image](E:/Data Analyst Mastery/Nordstorm Products Data Preparation (SQL)/ss.png)
+![ss](https://user-images.githubusercontent.com/87838849/197666454-671a3119-dec8-4e33-8fb7-6f01b16ae09f.png)
