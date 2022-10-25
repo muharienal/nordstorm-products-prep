@@ -1,5 +1,5 @@
 # NORDSTROM PRODUCTS DATA PREPARATION
-Nordstrom Products dataset preparation includes collection, discovery, cleaning, structuring, enrichment, and validation.
+Nordstrom Products dataset preparation includes collection, discovery, cleaning, normalization, enrichment, and validation using SQL.
 
 ### Dataset Source
 https://www.kaggle.com/datasets/polartech/nordstrom-dataset
