@@ -14,3 +14,6 @@ For more information, please contact info@barkingdata.com.
 We specialize in web mining and web data harvesting from the world wide web (including mobile apps), we have built 5000+ datasets for researchers, analysts, scholars, retailers.
 
 Learn more from https://www.barkingdata.com.
+
+### Data Normalization
+![My Image](E:/Data Analyst Mastery/Nordstorm Products Data Preparation (SQL)/ss.png)
